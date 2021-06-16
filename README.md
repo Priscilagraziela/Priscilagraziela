@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Priscilagraziela
 - 👀 I’m interested in networking
 - 🌱 I’m currently learning about technology.
-- 💞️ I’m Tech Recruiter.
+- 💞️ I’m  Tech Recruiter
 - 📫 How to reach me vagas@rossoconsultoria.com.br
 
 <!---
